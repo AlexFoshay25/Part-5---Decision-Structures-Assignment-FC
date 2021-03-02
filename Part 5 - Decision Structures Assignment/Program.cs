@@ -59,7 +59,7 @@ namespace Part_5_Ifs
 
             Console.WriteLine("------------------------------------------------------------------------------------------------------------------------");
 
-            Console.Write("Enter 1,2,3,4 or 5 for a Category hurricane: ");
+            Console.Write("Enter a 1,2,3,4 or 5 to determine what category of hurricane will appear: ");
             input = Console.ReadLine();
             int.TryParse(input, out cat);
 

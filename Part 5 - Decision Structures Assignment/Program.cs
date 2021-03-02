@@ -120,10 +120,10 @@ namespace Part_5_Ifs
             }
             else
             {
-                Console.WriteLine("Invalid Input");
+                Console.WriteLine("-- Invalid Input --");
             }
 
-            Console.WriteLine("Press Enter is Exit");
+            Console.WriteLine("Press Enter to Exit");
 
 
 
